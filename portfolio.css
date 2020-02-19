@@ -1,0 +1,68 @@
+body{
+    background-color: whitesmoke;
+    background-image: url("https://motionarray.imgix.net/preview-78805-QcuU8T4YV7-low_0013.jpg?w=660&q=60&fit=max&auto=format");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: scroll;
+}
+title{
+    color:white;
+
+}
+
+h1{
+    color:black;
+    font-family:Verdana;
+    font-size: 40px;
+    text-align:center;
+
+
+}
+
+h2{
+    color:black; 
+    font-family: Verdana;
+    font-size:20px;
+    text-align:center;
+   
+}
+
+p{
+    background-color:whitesmoke;
+    color:black; 
+    font-family: Verdana;
+    font-size:20px;
+    text-align:center;
+    border-style: solid;
+    border-radius: 4px;
+    border-color:white;
+    width:75%;
+    padding-left: 25px;
+    padding-right: 35px;
+    margin-left: 50px;
+
+}
+
+p2{
+    background-color:whitesmoke;
+    color:black; 
+    font-family: Verdana;
+    font-size:20px;
+    text-align:left;
+    line-height: 10;
+    border-style: solid;
+    border-radius: 4px;
+    border-color: white;
+    margin-bottom:0;
+}
+
+ul li {
+    background: white;
+    margin: 5px;
+    border-width: thick;
+    border-radius: 4px;
+    width:15%;
+
+
+  }
